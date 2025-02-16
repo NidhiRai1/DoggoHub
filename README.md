@@ -92,12 +92,3 @@ Contributions are welcome! To contribute:
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-For more detailed information, refer to the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/) and the [freeCodeCamp README Tutorial](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/).
-
-By following this template, you can create a README file that effectively communicates the essential aspects of your project, making it accessible and understandable to users and collaborators. 
