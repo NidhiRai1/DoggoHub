@@ -81,14 +81,4 @@ Once the application is running, users can register and log in to access the pla
   - Multer: Handling file uploads.
   - JSON Web Token (JWT): Implementing secure authentication.
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature/YourFeature`).
-6. Open a pull request.
 
